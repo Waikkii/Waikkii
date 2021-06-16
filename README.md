@@ -35,6 +35,7 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visualstudiocode)
   ![Atom](https://img.shields.io/badge/-Atom-333333?style=flat&logo=atom)
   ![Jupyter](https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=jupyter)
+  ![Pycharm](https://img.shields.io/badge/-Pycharm-333333?style=flat&logo=pycharm)
 - 🖥 &nbsp;
   ![After Effects](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobeaftereffects)
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobephotoshop)
