@@ -49,10 +49,10 @@
 </a>
 
 <h3> 🀄 &nbsp;Github Repos</h3>
-<a href="https://github.com/Waikkii">
+<a href="https://github.com/Waikkii/SEU_ScoreGUI">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=Waikkii&repo=SEU_ScoreGUI&show_owner=true" />
 </a>
-<a href="https://github.com/Waikkii">
+<a href="https://github.com/Waikkii/TL_ShuffleNet">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=Waikkii&repo=TL_ShuffleNet&show_owner=true" />
 </a>
 
