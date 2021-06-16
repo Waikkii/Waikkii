@@ -37,7 +37,7 @@
   ![Jupyter](https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=jupyter)
   ![Pycharm](https://img.shields.io/badge/-Pycharm-333333?style=flat&logo=pycharm)
 - 🖥 &nbsp;
-  ![After Effects](https://img.shields.io/badge/-After Effects-333333?style=flat&logo=adobeaftereffects)
+  ![After Effects](https://img.shields.io/badge/-After%20Effects-333333?style=flat&logo=adobeaftereffects)
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobephotoshop)
   ![Premiere](https://img.shields.io/badge/-Premiere-333333?style=flat&logo=adobepremierepro)
 
