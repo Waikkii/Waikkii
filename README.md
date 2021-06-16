@@ -51,6 +51,8 @@
 <h3> 🀄 &nbsp;Github Repos</h3>
 <a href="https://github.com/Waikkii">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=Waikkii&repo=SEU_ScoreGUI&show_owner=true" />
+</a>
+<a href="https://github.com/Waikkii">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=Waikkii&repo=TL_ShuffleNet&show_owner=true" />
 </a>
 
