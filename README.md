@@ -48,6 +48,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Waikkii&theme=buefy&layout=compact" />
 </a>
 
+<h3> 🛠 &nbsp;Github Repos</h3>
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anandmainali&repo=PackageTemplate&show_owner=true)](https://github.com/Waikkii/SEU_ScoreGUI)
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anandmainali&repo=Foods-Ecommerce&show_owner=true)](https://github.com/Waikkii/TL_ShuffleNet)
+
 <br/>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
