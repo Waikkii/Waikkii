@@ -13,12 +13,12 @@
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java)
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B)
-- 🔨 &nbsp;
+- 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Php](https://img.shields.io/badge/-Php-333333?style=flat&logo=php)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-- 🌐 &nbsp;
+- 🔨 &nbsp;
    ![Tensorflow](https://img.shields.io/badge/-Tensorflow-333333?style=flat&logo=tensorflow)
   ![Pytorch](https://img.shields.io/badge/-Pytorch-333333?style=flat&logo=pytorch)
   ![Keras](https://img.shields.io/badge/-Keras-333333?style=flat&logo=keras)
