@@ -49,13 +49,15 @@
 </a>
 
 <h3> 🀄 &nbsp;Github Repos</h3>
-<a href="https://github.com/Waikkii/SEU_ScoreGUI">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=Waikkii&repo=SEU_ScoreGUI&show_owner=true" />
+<a href="https://github.com/Waikkii/gd">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=Waikkii&repo=gd&show_owner=true" />
 </a>
-<a href="https://github.com/Waikkii/TL_ShuffleNet">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=Waikkii&repo=TL_ShuffleNet&show_owner=true" />
+<a href="https://github.com/Waikkii/Waikiki_JDC">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=Waikkii&repo=Waikiki_JDC&show_owner=true" />
 </a>
-
+<a href="https://github.com/Waikkii/JD_Get_Cookie">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=Waikkii&repo=JD_Get_Cookie&show_owner=true" />
+</a>
 <br/>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
