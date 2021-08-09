@@ -58,6 +58,9 @@
 <a href="https://github.com/Waikkii/JD_Get_Cookie">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=Waikkii&repo=JD_Get_Cookie&show_owner=true" />
 </a>
+<a href="https://github.com/Waikkii/Waikiki_XDD">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=Waikkii&repo=Waikiki_XDD&show_owner=true" />
+</a>
 <br/>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
