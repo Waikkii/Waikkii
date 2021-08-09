@@ -44,7 +44,7 @@
 <br/>
 
 <a href="https://github.com/Waikkii">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Waikkii&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Waikkii&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Waikkii&theme=buefy&layout=compact" />
 </a>
 
