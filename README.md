@@ -66,7 +66,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.Waikiki.ltd/"><img alt="Website" src="https://img.shields.io/badge/Website-www.Waikiki.ltd-blue?style=flat-square&logo=google-chrome"></a>
+<a href="http://waikiki.ltd/"><img alt="Website" src="https://img.shields.io/badge/Website-www.Waikiki.ltd-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.instagram.com/Waikiki221/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Waikiki221-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:waikikisiwei@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-waikikisiwei@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
