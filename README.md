@@ -52,8 +52,8 @@
 <a href="https://github.com/Waikkii/gd">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=Waikkii&repo=gd&show_owner=true" />
 </a>
-<a href="https://github.com/Waikkii/Waikiki_JDC">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=Waikkii&repo=Waikiki_JDC&show_owner=true" />
+<a href="https://github.com/Waikkii/Waikiki_Ninja">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=Waikkii&repo=Waikiki_Ninja&show_owner=true" />
 </a>
 <a href="https://github.com/Waikkii/JD_Get_Cookie">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=Waikkii&repo=JD_Get_Cookie&show_owner=true" />
